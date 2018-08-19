@@ -1,6 +1,3 @@
-//https://toph.co/p/mount-everest
-
-
 #include<iostream>
 
 using namespace std;
