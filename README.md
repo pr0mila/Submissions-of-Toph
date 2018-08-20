@@ -15,10 +15,9 @@ Problems of Toph
     11) Ha Ha Ha
     12) ILUJPC 2017
     13) I Did Not Do the Assignment
-    14) Arithmetic Sequence (Easy)
-    15) GPA Calculator
-    16) Welcome to INPC
-    17) Alayna and Vowels
-    18) Kinderbijslag
-    19) Will He Take the Workshop of 45 Batch?
-    20) Sofdor Ali's Magical Blackboard!
+    14) GPA Calculator
+    15) Welcome to INPC
+    16) Alayna and Vowels
+    17) Kinderbijslag
+    18) Will He Take the Workshop of 45 Batch?
+    19) Sofdor Ali's Magical Blackboard!
