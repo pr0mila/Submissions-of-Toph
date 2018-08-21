@@ -19,5 +19,4 @@ Problems of Toph
     15) Welcome to INPC
     16) Alayna and Vowels
     17) Kinderbijslag
-    18) Will He Take the Workshop of 45 Batch?
-    19) Sofdor Ali's Magical Blackboard!
+    18) Sofdor Ali's Magical Blackboard!
